@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub test</string>
+    <string name="message">Message</string>
+    <string name="date">Date</string>
+    <string name="search">search</string>
+    <string name="action_settings">settings</string>
+</resources>
